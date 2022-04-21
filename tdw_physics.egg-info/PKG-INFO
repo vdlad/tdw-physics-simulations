@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: tdw-physics
+Version: 0.3.1
+Summary: Generic structure to create physics datasets with TDW.
+Home-page: https://github.com/alters-mit/tdw_physics
+Author: Seth Alter
+License: MIT
+Keywords: unity simulation tdw hdf5
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+
+Required Python scripts for TDW.
+

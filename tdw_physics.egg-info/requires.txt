@@ -1,0 +1,8 @@
+tqdm
+numpy
+h5py
+pillow
+weighted-collection
+tdw
+stopit
+trimesh

@@ -1,0 +1,1 @@
+from weighted_collection.weighted_collection import WeightedCollection

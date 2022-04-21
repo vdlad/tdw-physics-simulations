@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: ikpy
+Version: 3.1
+Summary: An inverse kinematics library aiming performance and modularity
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: sympy
+Provides-Extra: plot
+Requires-Dist: matplotlib ; extra == 'plot'
+Requires-Dist: graphviz ; extra == 'plot'
+
+UNKNOWN
+
+

@@ -1,0 +1,7 @@
+README.md
+setup.py
+tdw_physics.egg-info/PKG-INFO
+tdw_physics.egg-info/SOURCES.txt
+tdw_physics.egg-info/dependency_links.txt
+tdw_physics.egg-info/requires.txt
+tdw_physics.egg-info/top_level.txt
